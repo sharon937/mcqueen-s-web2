@@ -80,7 +80,7 @@ html[xmlns] .flexslider .slides {
   height: 434px;
   margin: 0 0 0px;
   background: #fff;
-  background-image: url(/img/img_bg.png);
+  background-image: url(../img/img_bg.png);
   border: 0px solid #fff;
   position: relative;
   zoom: 1;
