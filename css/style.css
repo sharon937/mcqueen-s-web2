@@ -31,7 +31,7 @@ header{
 .user{
     display: flex;
     height: 50px;
-    justify-content: end;
+    justify-content: flex-end;
     padding-right: 10px;
 }
 .user_img{
